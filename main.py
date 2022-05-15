@@ -17,6 +17,8 @@ time.sleep(2.4)
 print("collceting your data....")
 def colored(r, g, b, text):
     return "\033[38;2;{};{};{}m{} \033[38;2;255;255;255m".format(r, g, b, text)
+print(colored(255, 0, 0, 'data captured'))
+url = f"https://ipapi.co/{ip}/json/"
 
 text = 'information gathering source'
 colored_text = colored(255, 0, 0, text)
