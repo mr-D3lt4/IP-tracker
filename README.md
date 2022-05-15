@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://telegra.ph/file/cba6284406789882d1b5d.jpg">
 </p>
+<h2 align="center">
+    ──「 join us on telegram 」──
+</h2>
