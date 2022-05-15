@@ -16,4 +16,4 @@
     ──「 join us on telegram 」──
 </h2>
 
-[https://telegra.ph/file/ff6ea209c755f5dd2614e.jpg](https://t.me/delta_D_squad)
+[TEAM DELTA](https://t.me/delta_D_squad)
